@@ -1,0 +1,8 @@
+[submodule "LPC17xx-DFU-Bootloader"]
+	path = LPC17xx-DFU-Bootloader
+	url = git@github.com:Skeen/LPC17xx-DFU-Bootloader.git
+	branch = noop
+[submodule "Marlin"]
+	path = Marlin
+	url = git@github.com:MarlinFirmware/Marlin.git
+	branch = bugfix-2.0.x
